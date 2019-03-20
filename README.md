@@ -10,3 +10,5 @@ Use this at your own risk. I am not liable for any damage caused to the machine,
 The BSOD invoker script was not made by me. Instead, I got it from peewpw's Invoke-BSOD Git repository. The source is here: https://github.com/peewpw/Invoke-BSOD
 
 Have fun, and change whatever you want!
+
+The compiled executable can be found in the Debug/bin folder.
