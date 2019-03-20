@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Yep Development Studios")]
 [assembly: AssemblyProduct("PC Crasher")]
-[assembly: AssemblyCopyright("Copyright © Yep Development Studios 2019")]
+[assembly: AssemblyCopyright("GNU GPL 2.0 Yep Development Studios")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

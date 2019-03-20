@@ -9,3 +9,14 @@ C:\Users\andyy\source\repos\PC Crasher\PC Crasher\obj\Debug\PC Crasher.exe
 C:\Users\andyy\source\repos\PC Crasher\PC Crasher\obj\Debug\PC Crasher.pdb
 C:\Users\andyy\source\repos\PC Crasher\PC Crasher\obj\Debug\PC_Crasher.AboutBox1.resources
 C:\Users\andyy\source\repos\PC Crasher\PC Crasher\obj\Debug\PC_Crasher.Form1.resources
+C:\Users\andyy\source\Git\PC-Crasher\bin\Debug\PC Crasher.exe.config
+C:\Users\andyy\source\Git\PC-Crasher\bin\Debug\PC Crasher.exe
+C:\Users\andyy\source\Git\PC-Crasher\bin\Debug\PC Crasher.pdb
+C:\Users\andyy\source\Git\PC-Crasher\obj\Debug\PC Crasher.csprojAssemblyReference.cache
+C:\Users\andyy\source\Git\PC-Crasher\obj\Debug\PC_Crasher.AboutBox1.resources
+C:\Users\andyy\source\Git\PC-Crasher\obj\Debug\PC_Crasher.Form1.resources
+C:\Users\andyy\source\Git\PC-Crasher\obj\Debug\PC_Crasher.Properties.Resources.resources
+C:\Users\andyy\source\Git\PC-Crasher\obj\Debug\PC Crasher.csproj.GenerateResource.cache
+C:\Users\andyy\source\Git\PC-Crasher\obj\Debug\PC Crasher.csproj.CoreCompileInputs.cache
+C:\Users\andyy\source\Git\PC-Crasher\obj\Debug\PC Crasher.exe
+C:\Users\andyy\source\Git\PC-Crasher\obj\Debug\PC Crasher.pdb

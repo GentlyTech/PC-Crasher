@@ -101,9 +101,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(204, 71);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(285, 17);
+            this.label3.Size = new System.Drawing.Size(262, 17);
             this.label3.TabIndex = 27;
-            this.label3.Text = "Copyright © 2019 Yep Development Studios";
+            this.label3.Text = "GNU GPL 2.0 Yep Development Studios";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
